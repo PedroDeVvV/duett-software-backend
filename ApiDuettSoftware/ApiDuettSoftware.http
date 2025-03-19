@@ -1,0 +1,6 @@
+@ApiDuettSoftware_HostAddress = http://localhost:5185
+
+GET {{ApiDuettSoftware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
