@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiDuettSoftware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b113d141a521473fb177e9b7e2dc3119d9d706f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4835e2775745e27a29f028b394120028904499")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiDuettSoftware")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiDuettSoftware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
